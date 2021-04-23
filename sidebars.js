@@ -1,5 +1,6 @@
 module.exports = {
   docs: [
+    "main",
     {
       type: "category",
       label: "I.C.R",
@@ -9,7 +10,20 @@ module.exports = {
       type: "category",
       label: "Control Remoto",
       items: [
-        "remote-control/antenas",
+        {
+          type: "category",
+          label: "Antenas",
+          items: [
+            "remote-control/antenas/parametros",
+            {
+              type: "category",
+              label: "Modelos",
+              items: [
+                "remote-control/antenas/modelos/powerbeanM5400"
+              ]
+            }
+          ],
+        },
         "remote-control/camaras",
         "remote-control/app",
       ],

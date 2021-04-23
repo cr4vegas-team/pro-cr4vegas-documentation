@@ -1,14 +1,18 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: "My Site",
-  tagline: "The tagline of my site",
-  url: "https://your-docusaurus-test-site.com",
-  baseUrl: "/",
+  title: "C.R.4.V",
+  tagline: "Documentación",
+  /** Config to Github-Pages */
+  // url: 'https://cr4vegas-team.github.io/pro-cr4vegas-documentation/', // Your website URL
+  url: 'https://cr4vegas-team.github.io', // Your website URL
+  // baseUrl: '/pro-cr4vegas-documentation/',
+  baseUrl: '/',
+  projectName: 'pro-cr4vegas-documentation',
+  organizationName: 'cr4vegas-team',
+
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
   themeConfig: {
     navbar: {
       title: "Documentación",

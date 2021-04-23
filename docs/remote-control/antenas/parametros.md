@@ -1,6 +1,12 @@
 ---
-title: Antenas
+title: Parámetros
 ---
+
+> Globales
+
+- **Máscara de red**: 255.255.255.0
+- **IP de la puerta de enlace**: 10.15.20.1
+- **WPA2**: pas@4v999root
 
 ## Planta > Bobar
 
@@ -52,6 +58,7 @@ title: Antenas
 
 > Punto de acceso
 
+- **SIDD**: ant4v106ap
 - **IP**: 10.15.20.106
 - **Usuario**: ant4v106
 - **Contraseña**: pas@4v106root
