@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://cr4vegas-team.github.io/blog</id>
+    <id>https://cr4vegas-team.github.io/pro-cr4vegas-documentation/blog</id>
     <title>C.R.4.V Blog</title>
     <updated>2015-10-25T23:29:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://cr4vegas-team.github.io/blog"/>
+    <link rel="alternate" href="https://cr4vegas-team.github.io/pro-cr4vegas-documentation/blog"/>
     <subtitle>C.R.4.V Blog</subtitle>
-    <icon>https://cr4vegas-team.github.io/img/favicon.ico</icon>
+    <icon>https://cr4vegas-team.github.io/pro-cr4vegas-documentation/img/favicon.ico</icon>
 </feed>
