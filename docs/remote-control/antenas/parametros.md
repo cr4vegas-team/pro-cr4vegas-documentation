@@ -6,7 +6,7 @@ title: Parámetros
 
 - **Máscara de red**: 255.255.255.0
 - **IP de la puerta de enlace**: 10.15.20.1
-- **WPA2**: pas@4v999root
+- **WPA2**: Ant@4Vegas
 
 ## Planta > Bobar
 
@@ -28,6 +28,7 @@ title: Parámetros
 
 > Punto de acceso
 
+- **SSID**: ant4v102ap
 - **IP**: 10.15.20.102
 - **Usuario**: ant4v102
 - **Contraseña**: pas@4v102root
@@ -44,6 +45,7 @@ title: Parámetros
 
 > Punto de acceso
 
+- **SSID**: ant4v104ap
 - **IP**: 10.15.20.104
 - **Usuario**: ant4v104
 - **Contraseña**: pas@4v104root
@@ -73,6 +75,7 @@ title: Parámetros
 
 > Punto de acceso
 
+- **SSID**: ant4v108ap
 - **IP**: 10.15.20.108
 - **Usuario**: ant4v108
 - **Contraseña**: pas@4v108root
@@ -87,6 +90,7 @@ title: Parámetros
 
 > Punto de acceso
 
+- **SSID**: ant4v110ap
 - **IP**: 10.15.20.110
 - **Usuario**: ant4v110
 - **Contraseña**: pas@4v110root
@@ -96,4 +100,3 @@ title: Parámetros
 - **IP**: 10.15.20.111
 - **Usuario**: ant4v111
 - **Contraseña**: pas@4v111root
-

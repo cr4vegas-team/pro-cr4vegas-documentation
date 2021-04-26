@@ -3,10 +3,10 @@ module.exports = {
   title: "C.R.4.V",
   tagline: "Documentación",
   /** Config to Github-Pages */
-  // url: 'https://cr4vegas-team.github.io/pro-cr4vegas-documentation/', // Your website URL
-  url: 'https://cr4vegas-team.github.io', // Your website URL
-  // baseUrl: '/pro-cr4vegas-documentation/',
-  baseUrl: '/',
+  url: 'https://cr4vegas-team.github.io/pro-cr4vegas-documentation/', // Your website URL
+  // url: 'https://cr4vegas-team.github.io', // Your website URL
+  baseUrl: '/pro-cr4vegas-documentation/',
+  // baseUrl: '/',
   projectName: 'pro-cr4vegas-documentation',
   organizationName: 'cr4vegas-team',
 
