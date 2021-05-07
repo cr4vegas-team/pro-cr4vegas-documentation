@@ -2,43 +2,43 @@
 title: Camaras
 ---
 
-***Aplicación:*** 192.168.1.134:8090
+**_Aplicación:_** 192.168.1.134:8090
 
 ## Planta - Entrada principal interior
 
-- **Modelo**: AXIS 210A Network Camera
-- **IP**: 192.168.2.10
-- **Usuario**: cam4v10
-- **Contraseña**: pass@4v10root
+- **Modelo**: Foscam FI9902P
+- **IP**: 192.168.2.102:88
+- **Usuario**: cam4v102
+- **Contraseña**: pass@4v102root | pass@4v102ro
 
-***
+---
 
 ## Planta - Entrada principal exterior
 
-- **Modelo**: AXIS 211 Network Camera
-- **IP**: 192.168.2.13
-- **Usuario**: root
-- **Contraseña**: pas4root
+- **Modelo**: Foscam FI9902P
+- **IP**: 192.168.2.101:88
+- **Usuario**: cam4v101
+- **Contraseña**: pass@4v101root | pass@4v102ro
 
-***
+---
 
 ## Planta - Oficinas
 
-- **Modelo**: AXIS 210A Network Camera
-- **IP**: 192.168.2.11
-- **Usuario**: root
-- **Contraseña**: pas4root
+- **Modelo**: Foscam FI9902P
+- **IP**: 192.168.2.104
+- **Usuario**: cam4v104
+- **Contraseña**: pass@4v104root | pass@4v102ro
 
-***
+---
 
 ## Planta - Balsa corrales
 
-- **Modelo**: AXIS 231D+ Network Dome Camera
-- **IP**: 192.168.2.15
-- **Usuario**: root
-- **Contraseña**: pas4root
+- **Modelo**: Foscam FI9902P
+- **IP**: 192.168.2.103
+- **Usuario**: cam4v103
+- **Contraseña**: pass@4v103root | pass@4v102ro
 
-***
+---
 
 ## El bobar
 
@@ -47,7 +47,7 @@ title: Camaras
 - **Usuario**: root
 - **Contraseña**: pas4root
 
-***
+---
 
 ## Costacabana - Fija
 
@@ -56,7 +56,7 @@ title: Camaras
 - **Usuario**: admin
 - **Contraseña**: pas4root
 
-***
+---
 
 ## Costacabana - Giratoria
 
@@ -65,31 +65,34 @@ title: Camaras
 - **Usuario**: admin
 - **Contraseña**: admin
 
-***
-
-## El boticario
-
-Próximamente...
-
-***
+---
 
 ## Los trancos
 
-- **Modelo**: AXIS 231D+ Network Dome Camera
-- **IP**: 192.168.2.23
-- **Usuario**: root
-- **Contraseña**: pas4root
+- **Modelo**: Foscam FI9902P
+- **IP**: 192.168.2.112
+- **Usuario**: cam4v112
+- **Contraseña**: pass@4v112root | pass@4v102ro
 
-***
+---
 
-## Las viudas
+## Las viudas Cuadros
 
 - **Modelo**: AXIS 232D+ Network Dome Camera
 - **IP**: 192.168.2.22
 - **Usuario**: root
 - **Contraseña**: pas4root
 
-***
+---
+
+## Las viudas Balsa
+
+- **Modelo**: Foscam FI9902P
+- **IP**: 192.168.2.111
+- **Usuario**: cam4v111
+- **Contraseña**: pass@4v111root | pass@4v102ro
+
+---
 
 ## Pechina
 
@@ -98,8 +101,19 @@ Próximamente...
 - **Usuario**: root
 - **Contraseña**: pas4root
 
-***
+---
 
 ## Gador
 
+- **Modelo**: Foscam FI9902P
+- **IP**: 192.168.2.114
+- **Usuario**: cam4v114
+- **Contraseña**: pass@4v114root | pass@4v102ro
+
+---
+
+## El boticario
+
 Próximamente...
+
+---
